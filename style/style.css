@@ -1,0 +1,18 @@
+.subir {
+    margin-top: -7rem;
+    width: 14rem;
+    height: 14rem;
+    
+}
+
+.headerDivider {
+    border-left:1px solid #38546d; 
+    border-right:1px solid #16222c; 
+    height:80px;
+    position:absolute;
+    right:249px;
+    top:10px; 
+}
+.bordeado{
+    border: solid 3px rgb(122, 131, 138) !important;
+}
