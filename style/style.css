@@ -21,3 +21,6 @@ body {
 .bordeado{
     border: solid 3px rgb(122, 131, 138) !important;
 }
+.estiloHover{
+    background-color: rgba(255,255,255,.7) !important;
+}
