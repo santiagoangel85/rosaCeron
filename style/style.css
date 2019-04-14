@@ -21,6 +21,6 @@ body {
 .bordeado{
     border: solid 3px rgb(122, 131, 138) !important;
 }
-.estiloHover{
-    background-color: rgba(255,255,255,.7) !important;
+.estiloHover:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
 }
