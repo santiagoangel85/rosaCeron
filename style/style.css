@@ -4,33 +4,21 @@ body {
 
   }
 
-.subir {
-    margin-top: -7rem;
-    width: 14rem;
-    height: 14rem;    
-}
-
-.headerDivider {
-    border-left:1px solid #38546d; 
-    border-right:1px solid #16222c; 
-    height:80px;
-    position:absolute;
-    right:249px;
-    top:10px; 
-}
-.bordeado{
-    border: solid 3px rgb(122, 131, 138) !important;
-}
 .estiloHover:hover {
-    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    border-radius: 5px; 
+    background-color: #e8eef3;
 }
 
 
 .grid-item{
     border-radius: 5px;
     overflow: hidden;
-    border: solid 1px #e8eef3;
+    border: solid 1px #e1e1e1;
     margin-bottom: 1rem;
     padding: 1rem;
     width: 250;
+}
+
+.active{
+    background-color: aqua;
 }
